@@ -1,0 +1,3 @@
+[submodule "telegram-bot-boilerplate"]
+	path = telegram-bot-boilerplate
+	url = git@github.com:p-forghani/telegram-bot-boilerplate.git
